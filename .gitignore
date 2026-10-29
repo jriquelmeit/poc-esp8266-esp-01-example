@@ -1,0 +1,6 @@
+.pio
+cmake-build-*
+.idea/
+.DS_Store
+include/config.h
+include/credentials.h
